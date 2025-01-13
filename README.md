@@ -45,7 +45,7 @@ Burp Comment Extractor 是一款专为 Burp Suite 打造的注释分析扩展工
 
 ### 安装步骤
 
-1. 下载 `BurpExtender.jar` 文件
+1. 直接下载 target 目录下的 comment-extractor-1.0-SNAPSHOT-jar-with-dependencies.jar 文件 或使用 Maven 编译：mvn clean package
 2. 打开 Burp Suite
 3. 进入 `Extender`（扩展器）标签
 4. 点击 `Add`（添加）按钮
